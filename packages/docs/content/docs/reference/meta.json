@@ -1,0 +1,12 @@
+{
+  "title": "Reference",
+  "pages": [
+    "stream-expressions",
+    "config-expressions",
+    "custom-formatter",
+    "templates",
+    "addon-protocol",
+    "jellyfin-extensions",
+    "web-app-css"
+  ]
+}
